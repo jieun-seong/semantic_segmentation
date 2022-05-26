@@ -1,0 +1,11 @@
+required_directories:
+  - src
+  - initmodel
+  - exp
+required_files:
+  - setup.cfg
+  - pyproject.toml
+  # - download_dataset.sh
+  - grayscale_predictions.zip
+optional_directories:
+  - additional_data
